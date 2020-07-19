@@ -125,7 +125,7 @@ GEM
     pg (1.1.4-x64-mingw32)
     popper_js (1.14.5)
     public_suffix (4.0.1)
-    puma (3.12.1)
+    puma (3.12.4)
     rack (2.0.7)
     rack-proxy (0.6.5)
       rack
@@ -260,7 +260,7 @@ DEPENDENCIES
   mini_magick (>= 4.9.4)
   pg
   popper_js (~> 1.14.3)
-  puma (~> 3.11)
+  puma (~> 3.12)
   rails (~> 5.2.3)
   rails-controller-testing (= 1.0.2)
   react-rails
